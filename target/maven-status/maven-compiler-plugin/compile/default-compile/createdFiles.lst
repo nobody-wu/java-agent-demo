@@ -1,0 +1,6 @@
+cn/iocoder/learning/javaagent01/Agent.class
+cn/iocoder/learning/javaagent01/permain/TestMainInJar.class
+cn/iocoder/learning/javaagent01/permain/TransClass.class
+cn/iocoder/learning/javaagent01/agentmain/JS6TestMainInJar.class
+cn/iocoder/learning/javaagent01/agentmain/JS6Agent.class
+cn/iocoder/learning/javaagent01/ClassFileTransformerDemo.class

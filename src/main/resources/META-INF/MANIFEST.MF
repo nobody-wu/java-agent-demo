@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: cn.iocoder.learning.javaagent01.Agent
+Agent-Class: cn.iocoder.learning.javaagent01.agentmain.JS6Agent
+Can-Redefine-Classes: true
